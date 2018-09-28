@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sender:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sender_jar</output-path>
+    <root id="archive" name="sender.jar">
+      <element id="module-output" name="sender" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maven_repo/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maven_repo/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maven_repo/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maven_repo/javax/mail/mail/1.4/mail-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maven_repo/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maven_repo/org/apache/poi/poi/3.17/poi-3.17.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
